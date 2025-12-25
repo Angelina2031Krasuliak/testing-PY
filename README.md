@@ -1,13 +1,11 @@
-# 2025_kn340_test
+# testing-PY
 
 | Badge | Status |
 |-------|--------|
-| **Top Language** | ![GitHub top language](https://img.shields.io/github/languages/top/BobasB/2025_kn340_test?color=green) |
+| **Top Language** | ![GitHub top language](https://img.shields.io/github/languages/top/Angelina2031Krasuliak/testing-PY?color=green) |
 | **Workflow Status** | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/BobasB/2025_kn340_test/python-app.yml?style=for-the-badge) |
-| **Tests** | [![Github Badge](https://github.com/BobasB/2025_kn340_test/actions/workflows/python-app.yml/badge.svg)](https://github.com/BobasB/2025_kn340_test/actions/workflows/python-app.yml) |
-| **Code Coverage** | [![codecov](https://codecov.io/gh/BobasB/2025_kn340_test/graph/badge.svg?token=6GMP7NINYH)](https://codecov.io/gh/BobasB/2025_kn340_test) |
-
-Репозиторій для роботи з групою КН-340
+| **Tests** | ![Run Tests](https://github.com/Angelina2031Krasuliak/testing-PY/actions/workflows/python-app.yml/badge.svg) |
+| **Code Coverage** | [![codecov](https://codecov.io/github/Angelina2031Krasuliak/testing-PY/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/github/Angelina2031Krasuliak/testing-PY) |
 
 ## GitHub Actions Integration
 

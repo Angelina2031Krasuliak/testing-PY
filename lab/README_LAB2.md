@@ -275,21 +275,13 @@ run-tests:
 ### 4.4 Генерування значків (Badges) для візуалізації
 
 **Значок статусу робочого потоку:**
-```markdown
+
 ![Run Tests](https://github.com/Angelina2031Krasuliak/testing-PY/actions/workflows/python-app.yml/badge.svg)
-```
+
 
 **Значок статистики покриття:**
-```markdown
+
 [![codecov](https://codecov.io/github/Angelina2031Krasuliak/testing-PY/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/github/Angelina2031Krasuliak/testing-PY)
-```
-
-Додайте ці елементи до файлу `README.md`:
-
-```markdown
-![Run Tests](https://github.com/Angelina2031Krasuliak/testing-PY/actions/workflows/python-app.yml/badge.svg)
-[![codecov](https://codecov.io/github/Angelina2031Krasuliak/testing-PY/graph/badge.svg)](https://codecov.io/github/Angelina2031Krasuliak/testing-PY)
-```
 
 ---
 
